@@ -1,0 +1,5 @@
+E:\maurenxii\praktik\c#\c#\c#\obj\Debug\net6.0\c#.csproj.AssemblyReference.cache
+E:\maurenxii\praktik\c#\c#\c#\obj\Debug\net6.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+E:\maurenxii\praktik\c#\c#\c#\obj\Debug\net6.0\c#.AssemblyInfoInputs.cache
+E:\maurenxii\praktik\c#\c#\c#\obj\Debug\net6.0\c#.AssemblyInfo.cs
+E:\maurenxii\praktik\c#\c#\c#\obj\Debug\net6.0\c#.csproj.CoreCompileInputs.cache
